@@ -34,6 +34,12 @@ public class SeleniumWithJDBC {
 		System.out.println("Added from B new line of code3");
 		System.out.println("Added from B  new line of code4");
 		
+		System.out.println("Added from BBBB new line of code1");
+		System.out.println("Added from BBBB new line of code2");
+		
+		System.out.println("Added from BBBB new line of code3");
+		System.out.println("Added from BBBB  new line of code4");
+		
 		
 		String host="localhost";
 		int port=3306;
