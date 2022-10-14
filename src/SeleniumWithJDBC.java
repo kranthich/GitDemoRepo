@@ -13,7 +13,11 @@ public class SeleniumWithJDBC {
 
 	public static void main(String[] args) throws SQLException {
 		
+		System.out.println("Added from x new line of code1");
+		System.out.println("Added from x new line of code2");
 		
+		System.out.println("Added from x new line of code3");
+		System.out.println("Added from x new line of code4");
 		
 		String host="localhost";
 		int port=3306;
